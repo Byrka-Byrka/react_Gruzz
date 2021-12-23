@@ -1,0 +1,21 @@
+.orderForm{
+    width: 100%;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items:center;
+
+}
+.orderForm__input{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+.orderForm__porter-select{
+    display: flex;
+    align-items:center;
+}
+.porter-select__label{
+    margin-right: 5px;
+}

@@ -1,0 +1,21 @@
+.aboutUs_wrapper{
+    width: 80%;
+    min-height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-around;
+    h3{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+}
+.aboutUs__ul li{
+    margin-bottom: 10px;
+}
+.aboutUs__navLink{
+    font-weight: bold;
+}
+.aboutUs__carsImg{
+    width: 100%;
+}

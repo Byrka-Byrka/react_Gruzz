@@ -1,0 +1,14 @@
+.services-wrapper{
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-size: 15px;
+}
+.service-item__img{
+    width: 60%;
+}
+.service-item__descr{
+    font-size: 14px;
+    font-weight: bold;
+}

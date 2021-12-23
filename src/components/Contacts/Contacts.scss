@@ -1,0 +1,18 @@
+.contacts__iFrame{
+    width: 600px;
+    max-width: 100%;
+    height:250px;
+    border:0;
+    border-radius: 15px;
+}
+.contacts_wrapper{
+    width: 80%;
+    min-height: 690px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-around;
+}
+.contacts_mainInfo{
+    font-weight: bold;
+}

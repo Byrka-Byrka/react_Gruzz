@@ -1,0 +1,21 @@
+.service-item{
+    height: 150px;
+    width: 200px;
+    border: solid rgba(34, 53, 112, 0.726) 2px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    -moz-transition: all 1s linear;
+    -o-transition: all 1s linear;
+    -webkit-transition: all 1s linear;
+}
+.service-item:hover{
+    cursor: pointer;
+    transition: 1s;
+    border-color: rgba(0, 159, 252, 0.301);
+    background-color: rgba(66, 94, 177, 0.068);
+}

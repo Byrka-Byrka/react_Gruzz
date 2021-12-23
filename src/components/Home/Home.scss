@@ -1,0 +1,27 @@
+.home_wrapper{
+    width: 80%;
+}
+.header{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.description{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    ol{
+        width: 80%;
+    }
+}
+.description__ol{
+    counter-reset: item;
+}
+.description__ol li {
+    display: block;
+}
+.description__ol li:before {
+    content: counter(item) ". ";
+    counter-increment: item;
+    font-weight: bold;
+}
+
