@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react_Gruzz/static/css/main.36614b91.chunk.css",
+    "main.js": "/react_Gruzz/static/js/main.d4f06dd9.chunk.js",
+    "main.js.map": "/react_Gruzz/static/js/main.d4f06dd9.chunk.js.map",
+    "runtime-main.js": "/react_Gruzz/static/js/runtime-main.7823a8ac.js",
+    "runtime-main.js.map": "/react_Gruzz/static/js/runtime-main.7823a8ac.js.map",
+    "static/js/2.34db9cc3.chunk.js": "/react_Gruzz/static/js/2.34db9cc3.chunk.js",
+    "static/js/2.34db9cc3.chunk.js.map": "/react_Gruzz/static/js/2.34db9cc3.chunk.js.map",
+    "index.html": "/react_Gruzz/index.html",
+    "static/css/main.36614b91.chunk.css.map": "/react_Gruzz/static/css/main.36614b91.chunk.css.map",
+    "static/js/2.34db9cc3.chunk.js.LICENSE.txt": "/react_Gruzz/static/js/2.34db9cc3.chunk.js.LICENSE.txt",
+    "static/media/b14-25.d3c7301c.png": "/react_Gruzz/static/media/b14-25.d3c7301c.png",
+    "static/media/b3-5.1b21bc63.png": "/react_Gruzz/static/media/b3-5.1b21bc63.png",
+    "static/media/b3.7d831257.png": "/react_Gruzz/static/media/b3.7d831257.png",
+    "static/media/b5-14.ed021b86.png": "/react_Gruzz/static/media/b5-14.ed021b86.png",
+    "static/media/b_apartment_moving.abde7bda.png": "/react_Gruzz/static/media/b_apartment_moving.abde7bda.png",
+    "static/media/b_auto_transporter.29598f94.png": "/react_Gruzz/static/media/b_auto_transporter.29598f94.png",
+    "static/media/b_evocation_of_cars.91eb24f7.png": "/react_Gruzz/static/media/b_evocation_of_cars.91eb24f7.png",
+    "static/media/b_passenger.cbfaec49.png": "/react_Gruzz/static/media/b_passenger.cbfaec49.png",
+    "static/media/b_relocate.35361a41.png": "/react_Gruzz/static/media/b_relocate.35361a41.png",
+    "static/media/b_spec_teck.4853ccfd.png": "/react_Gruzz/static/media/b_spec_teck.4853ccfd.png",
+    "static/media/app.scss": "/react_Gruzz/static/media/bg_teck.4974fd13.png",
+    "static/media/cars.1a3cb94c.png": "/react_Gruzz/static/media/cars.1a3cb94c.png",
+    "static/media/logo.154619ba.png": "/react_Gruzz/static/media/logo.154619ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7823a8ac.js",
+    "static/js/2.34db9cc3.chunk.js",
+    "static/css/main.36614b91.chunk.css",
+    "static/js/main.d4f06dd9.chunk.js"
+  ]
+}
