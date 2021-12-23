@@ -5,18 +5,19 @@ import './Footer.scss';
 
 export function Footer() {
     let location = useLocation()
+    console.log(location.pathname)
     let isToHomeLinkActive = location.pathname !== '/';
 
     return (
         <div className='footer_container'>
             <footer className='footer'>
-                {isToHomeLinkActive ? <Link className='navLink navLink_home' to="/">
+                {isToHomeLinkActive ? <Link className='navLink navLink_home' to="react_Gruzz/">
                     <p>ВЕРНУТЬСЯ НА ГЛАВНУЮ</p>
                 </Link> : ''}
-                <Link className='navLink' to="/aboutUs">
+                <Link className='navLink' to="react_Gruzz/aboutUs">
                     <p>О НАС</p>
                 </Link>
-                <Link className='navLink' to="/contacts">
+                <Link className='navLink' to="react_Gruzz/contacts">
                     <div className='contacts_container'>
                         контакты
                         <FaPhone size='20px' />

@@ -17,13 +17,13 @@ function App() {
     <Router>
       <Nav/>
       <Switch>
-          <Route exact path="/">
+          <Route exact path="react_Gruzz/">
             <Home />
           </Route>
-          <Route path="/contacts">
+          <Route path="react_Gruzz/contacts">
             <Contacts />
           </Route>
-          <Route path="/aboutUs">
+          <Route path="react_Gruzz/aboutUs">
             <AboutUs />
           </Route>
       </Switch>
